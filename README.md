@@ -2,10 +2,6 @@
   「  ᴀɪ ʙᴏᴛ 」
 </h2>
 
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=AI+BOT+!;CREATED+BY+𝐌𝐑𝐙 𝐁𝐎𝐓+DEVELOPER!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
-</p>
-
 ʏᴏᴜ ᴡɪʟʟ ꜰɪɴᴅ ᴛʜɪs ʙᴏᴛ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs <b>ADV AI BOT</b>
 
 
