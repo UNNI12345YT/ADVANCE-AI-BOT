@@ -10,7 +10,7 @@
         "stablediffusion",
         "llm"
     ],
-    "repository": "https://github.com/Mrz-Botz/ADVANCE-AI-BOT",
+    "repository": "https://github.com/UNNI12345YT/ADVANCE-AI-BOT",
     "buildpacks": [
         {
             "url": "https://github.com/heroku/heroku-buildpack-python"
