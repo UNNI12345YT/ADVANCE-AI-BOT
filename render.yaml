@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: my-ai-bot
+    env: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: python bot.py
+    envVars:
+      - key: PORT
+        value: 5000
+      
