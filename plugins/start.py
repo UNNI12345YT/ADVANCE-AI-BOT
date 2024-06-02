@@ -15,7 +15,7 @@ startText = """
  ➻ /gemini : ɢᴇᴍɪɴɪ ʙʏ ɢᴏᴏɢʟᴇ
  ➻ /imagine : ᴄʀᴇᴀᴛᴇ ᴀɪ ɪᴍᴀɢᴇs
 
- ➻ sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ - @XBOTSUPPORTS 
+ ➻ ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ - @Blockbuster_Brigade
 """
 
 @Client.on_message(filters.command(["start","help","repo","source"]))
