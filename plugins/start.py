@@ -25,7 +25,7 @@ async def start(_: Client, m: t.Message):
         reply_markup=t.InlineKeyboardMarkup(
             [
                 [
-                    t.InlineKeyboardButton(text="Repo",url="https://github.com/Mrz-Botz/ADVANCE-AI-BOT ")
+                    t.InlineKeyboardButton(text="Repo",url="https://github.com/UNNI12345YT/ADVANCE-AI-BOT ")
                 ]
             ]
         )
